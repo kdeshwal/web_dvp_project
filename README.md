@@ -1,1 +1,3 @@
 # web_dvp_project
+A web application that aims at providing the most suitable solution for finding appropriate training, internship and job opportunities to a user that matches the user’s specifications and interests along with alumni connection. User can register itself as a company, employee, student or as a professor. Appropriate users can create their own training/internship or PBI opportunities according to their field. .It will help any aspiring student/employee to achieve success by presenting him/her numerous opportunities to apply in the desired dream company or project .Hence this project has the prospect of making the people more aware and letting them explore the world full of possibilities.
+Languages used: Html5, CSS3, PHP, MySQL, Bootstrap (framework)
